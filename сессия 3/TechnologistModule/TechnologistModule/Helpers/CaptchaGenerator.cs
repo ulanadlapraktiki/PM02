@@ -1,7 +1,7 @@
-﻿using System.Drawing;
+﻿using System;
+using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
-using System;
 
 namespace TechnologistModule
 {
@@ -27,7 +27,7 @@ namespace TechnologistModule
             {
                 g.Clear(Color.WhiteSmoke);
 
-                // Шум
+                // Шум - точки
                 for (int i = 0; i < 100; i++)
                 {
                     bmp.SetPixel(_rnd.Next(width), _rnd.Next(height), Color.LightGray);

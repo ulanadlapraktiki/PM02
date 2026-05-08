@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Колледж\Учебная практика\ПМ02\Сессия 3\TechnologistModule\obj\Debug\net8.0-windows\
+C:\ico\PM02\сессия 3\TechnologistModule\TechnologistModule\obj\Debug\net8.0-windows\
 TechnologistModule
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-D:\Колледж\Учебная практика\ПМ02\Сессия 3\TechnologistModule\App.xaml
+C:\ico\PM02\сессия 3\TechnologistModule\TechnologistModule\App.xaml
 13-47843272
 
 18-693380349
-208-1791322190
+208-1545243129
 Dialogs\AddBatchDialog.xaml;Dialogs\AddOrderDialog.xaml;Dialogs\AddProductDialog.xaml;Dialogs\AddRecipeDialog.xaml;MainWindow.xaml;Views\BatchesView.xaml;Views\DashboardView.xaml;Views\DeviationsView.xaml;Views\LoginWindow.xaml;Views\OrdersView.xaml;Views\ProductsView.xaml;Views\RecipesView.xaml;Views\ReportsView.xaml;
 
 False

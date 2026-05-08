@@ -1,77 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\",
+  "WorkspaceRootPath": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\views\\reportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\reportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\helpers\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:helpers\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\views\\reportsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\reportsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\dialogs\\addbatchdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:dialogs\\addbatchdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\dialogs\\addorderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:dialogs\\addorderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\views\\recipesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\recipesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\views\\productsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\productsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\views\\ordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\ordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\views\\deviationsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\views\\reportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\reportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\views\\reportsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\reportsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\dialogs\\addbatchdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:dialogs\\addbatchdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\dialogs\\addorderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:dialogs\\addorderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\views\\recipesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\recipesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\views\\productsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\productsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\views\\ordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\ordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\views\\deviationsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\deviationsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\views\\batchesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\views\\batchesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:views\\batchesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\dialogs\\addproductdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\dialogs\\addproductdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:dialogs\\addproductdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\dialogs\\addrecipedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\dialogs\\addrecipedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:dialogs\\addrecipedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\dialogs\\addorderdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|c:\\ico\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\technologistmodule\\technologistmodule\\dialogs\\addorderdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B90EAF09-CCFB-4EC4-81ED-ECF35093EC89}|TechnologistModule.csproj|solutionrelative:dialogs\\addorderdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -85,148 +93,42 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:35:02.655Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReportsView.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\ReportsView.xaml",
-              "RelativeDocumentMoniker": "Views\\ReportsView.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\ReportsView.xaml*",
-              "RelativeToolTip": "Views\\ReportsView.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:34:50.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\LoginWindow.xaml.cs*",
+              "RelativeToolTip": "Views\\LoginWindow.xaml.cs*",
+              "ViewState": "AgIAANsAAAAAAAAAAAAqwP4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T07:56:37.103Z",
+              "WhenOpened": "2026-05-08T10:09:26.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Services\\ApiService.cs",
-              "RelativeDocumentMoniker": "Services\\ApiService.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Services\\ApiService.cs",
-              "RelativeToolTip": "Services\\ApiService.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAxwGAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CaptchaGenerator.cs",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Helpers\\CaptchaGenerator.cs",
+              "RelativeDocumentMoniker": "Helpers\\CaptchaGenerator.cs",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Helpers\\CaptchaGenerator.cs*",
+              "RelativeToolTip": "Helpers\\CaptchaGenerator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T07:45:56.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Models.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Models.cs",
-              "RelativeDocumentMoniker": "Models.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Models.cs",
-              "RelativeToolTip": "Models.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAUwE4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T07:47:48.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductsView.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\ProductsView.xaml",
-              "RelativeDocumentMoniker": "Views\\ProductsView.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\ProductsView.xaml",
-              "RelativeToolTip": "Views\\ProductsView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:34:09.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrdersView.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\OrdersView.xaml",
-              "RelativeDocumentMoniker": "Views\\OrdersView.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\OrdersView.xaml",
-              "RelativeToolTip": "Views\\OrdersView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:33:49.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddBatchDialog.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Dialogs\\AddBatchDialog.xaml",
-              "RelativeDocumentMoniker": "Dialogs\\AddBatchDialog.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Dialogs\\AddBatchDialog.xaml",
-              "RelativeToolTip": "Dialogs\\AddBatchDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:30:12.425Z",
+              "WhenOpened": "2026-05-08T10:15:24.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ReportsView.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\ReportsView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\ReportsView.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\ReportsView.xaml.cs*",
-              "RelativeToolTip": "Views\\ReportsView.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T07:46:40.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RecipesView.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\RecipesView.xaml",
-              "RelativeDocumentMoniker": "Views\\RecipesView.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\RecipesView.xaml",
-              "RelativeToolTip": "Views\\RecipesView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:34:20.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddOrderDialog.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Dialogs\\AddOrderDialog.xaml",
-              "RelativeDocumentMoniker": "Dialogs\\AddOrderDialog.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Dialogs\\AddOrderDialog.xaml",
-              "RelativeToolTip": "Dialogs\\AddOrderDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:28:50.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\LoginWindow.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "Views\\LoginWindow.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\LoginWindow.xaml",
               "RelativeToolTip": "Views\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-08T07:33:42.038Z",
@@ -234,76 +136,196 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DeviationsView.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\DeviationsView.xaml",
-              "RelativeDocumentMoniker": "Views\\DeviationsView.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\DeviationsView.xaml",
-              "RelativeToolTip": "Views\\DeviationsView.xaml",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:33:09.702Z",
+              "WhenOpened": "2026-05-08T07:35:02.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportsView.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\ReportsView.xaml",
+              "RelativeDocumentMoniker": "Views\\ReportsView.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\ReportsView.xaml",
+              "RelativeToolTip": "Views\\ReportsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T07:34:50.853Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:56:37.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAxwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:45:56.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Models.cs",
+              "RelativeDocumentMoniker": "Models.cs",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Models.cs",
+              "RelativeToolTip": "Models.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:47:48.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsView.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\ProductsView.xaml",
+              "RelativeDocumentMoniker": "Views\\ProductsView.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\ProductsView.xaml",
+              "RelativeToolTip": "Views\\ProductsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T07:34:09.081Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "DashboardView.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\DashboardView.xaml",
-              "RelativeDocumentMoniker": "Views\\DashboardView.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\DashboardView.xaml",
-              "RelativeToolTip": "Views\\DashboardView.xaml",
+              "Title": "OrdersView.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\OrdersView.xaml",
+              "RelativeDocumentMoniker": "Views\\OrdersView.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\OrdersView.xaml",
+              "RelativeToolTip": "Views\\OrdersView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:32:38.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T07:33:49.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddBatchDialog.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Dialogs\\AddBatchDialog.xaml",
+              "RelativeDocumentMoniker": "Dialogs\\AddBatchDialog.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Dialogs\\AddBatchDialog.xaml",
+              "RelativeToolTip": "Dialogs\\AddBatchDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T07:30:12.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportsView.xaml.cs",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\ReportsView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ReportsView.xaml.cs",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\ReportsView.xaml.cs",
+              "RelativeToolTip": "Views\\ReportsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:46:40.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecipesView.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\RecipesView.xaml",
+              "RelativeDocumentMoniker": "Views\\RecipesView.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\RecipesView.xaml",
+              "RelativeToolTip": "Views\\RecipesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T07:34:20.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddOrderDialog.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Dialogs\\AddOrderDialog.xaml",
+              "RelativeDocumentMoniker": "Dialogs\\AddOrderDialog.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Dialogs\\AddOrderDialog.xaml",
+              "RelativeToolTip": "Dialogs\\AddOrderDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T07:28:50.673Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "BatchesView.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\BatchesView.xaml",
-              "RelativeDocumentMoniker": "Views\\BatchesView.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Views\\BatchesView.xaml",
-              "RelativeToolTip": "Views\\BatchesView.xaml",
+              "Title": "DeviationsView.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\DeviationsView.xaml",
+              "RelativeDocumentMoniker": "Views\\DeviationsView.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\DeviationsView.xaml",
+              "RelativeToolTip": "Views\\DeviationsView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:32:02.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AddRecipeDialog.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Dialogs\\AddRecipeDialog.xaml",
-              "RelativeDocumentMoniker": "Dialogs\\AddRecipeDialog.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Dialogs\\AddRecipeDialog.xaml",
-              "RelativeToolTip": "Dialogs\\AddRecipeDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:30:33.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T07:33:09.702Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "AddProductDialog.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Dialogs\\AddProductDialog.xaml",
-              "RelativeDocumentMoniker": "Dialogs\\AddProductDialog.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Dialogs\\AddProductDialog.xaml",
-              "RelativeToolTip": "Dialogs\\AddProductDialog.xaml",
+              "Title": "DashboardView.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\DashboardView.xaml",
+              "RelativeDocumentMoniker": "Views\\DashboardView.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\DashboardView.xaml",
+              "RelativeToolTip": "Views\\DashboardView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T07:30:26.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T07:32:38.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BatchesView.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\BatchesView.xaml",
+              "RelativeDocumentMoniker": "Views\\BatchesView.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Views\\BatchesView.xaml",
+              "RelativeToolTip": "Views\\BatchesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T07:32:02.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddRecipeDialog.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Dialogs\\AddRecipeDialog.xaml",
+              "RelativeDocumentMoniker": "Dialogs\\AddRecipeDialog.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Dialogs\\AddRecipeDialog.xaml",
+              "RelativeToolTip": "Dialogs\\AddRecipeDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T07:30:33.011Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "AddProductDialog.xaml",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Dialogs\\AddProductDialog.xaml",
+              "RelativeDocumentMoniker": "Dialogs\\AddProductDialog.xaml",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Dialogs\\AddProductDialog.xaml",
+              "RelativeToolTip": "Dialogs\\AddProductDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T07:30:26.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "AddOrderDialog.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Dialogs\\AddOrderDialog.xaml.cs",
+              "DocumentMoniker": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Dialogs\\AddOrderDialog.xaml.cs",
               "RelativeDocumentMoniker": "Dialogs\\AddOrderDialog.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\Dialogs\\AddOrderDialog.xaml.cs",
+              "ToolTip": "C:\\ico\\PM02\\\u0441\u0435\u0441\u0441\u0438\u044F 3\\TechnologistModule\\TechnologistModule\\Dialogs\\AddOrderDialog.xaml.cs",
               "RelativeToolTip": "Dialogs\\AddOrderDialog.xaml.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAuwDcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T07:30:01.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T07:30:01.995Z"
             }
           ]
         }

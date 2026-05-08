@@ -1,6 +1,6 @@
 ﻿namespace lektion.Models
 {
-    public class Receipes
+    public class Receipe
     {
         public int recipe_id { get; set; }
         public int product_id { get; set; }

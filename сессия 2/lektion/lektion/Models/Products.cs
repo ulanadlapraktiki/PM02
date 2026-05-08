@@ -1,6 +1,6 @@
 ﻿namespace lektion.Models
 {
-    public class Products
+    public class Product
     {
         public int product_id { get; set; }
         public string product_code { get; set; } = string.Empty;
