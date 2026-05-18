@@ -1,0 +1,20 @@
+﻿TechnologistModule
+
+
+winexe
+C#
+.cs
+D:\Колледж\Учебная практика\ПМ02\Сессия 3\TechnologistModule\obj\Debug\net8.0-windows\
+TechnologistModule
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\Колледж\Учебная практика\ПМ02\Сессия 3\TechnologistModule\App.xaml
+2685461466
+
+311792888319
+219739396975
+Dialogs\AddBatchDialog.xaml;Dialogs\AddExtruderProgramDialog.xaml;Dialogs\AddExtruderZoneDialog.xaml;Dialogs\AddOrderDialog.xaml;Dialogs\AddProductDialog.xaml;Dialogs\AddRecipeDialog.xaml;Dialogs\AddTechMapDialog.xaml;Dialogs\AvatarDialog.xaml;Dialogs\EditBatchDialog.xaml;Dialogs\EditExtruderProgramDialog.xaml;Dialogs\EditOrderDialog.xaml;Dialogs\EditProductDialog.xaml;Dialogs\EditRecipeDialog.xaml;Dialogs\EditTechMapDialog.xaml;MainWindow.xaml;Views\BatchesView.xaml;Views\DashboardView.xaml;Views\DeviationsView.xaml;Views\ExtruderView.xaml;Views\LoginWindow.xaml;Views\OrdersView.xaml;Views\ProductsView.xaml;Views\RecipesView.xaml;Views\RegisterWindow.xaml;Views\ReportsView.xaml;Views\TechMapsView.xaml;
+
+False
+

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "NmXXzp5lX4I=",
+  "success": false,
+  "projectFilePath": "D:\\Новая папка\\OperatorModule\\OperatorModule.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс служб для источника https://api.nuget.org/v3/index.json.\r\n  Произошла ошибка при отправке запроса.\r\n  Невозможно разрешить удаленное имя: 'api.nuget.org'",
+      "projectPath": "D:\\Новая папка\\OperatorModule\\OperatorModule.csproj",
+      "filePath": "D:\\Новая папка\\OperatorModule\\OperatorModule.csproj",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": []
+    }
+  ]
+}

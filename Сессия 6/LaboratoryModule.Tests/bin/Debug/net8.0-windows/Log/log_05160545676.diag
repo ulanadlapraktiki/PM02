@@ -1,0 +1,16 @@
+2026-05-16T05:27:45.6818272+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2026-05-16T05:27:45.6968848+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-05-16T05:27:45.6979639+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-05-16T05:27:45.6979680+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 05:27:45.660
+2026-05-16T05:27:45.6992886+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 28296
+2026-05-16T05:27:45.6993809+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.26
+2026-05-16T05:27:45.6993890+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.26\System.Private.CoreLib.dll
+2026-05-16T05:27:45.6993954+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-05-16T05:27:45.6994000+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: D:\Колледж\Учебная практика\ПМ02\Сессия 4\LaboratoryModule.Tests\bin\Debug\net8.0-windows\LaboratoryModule.Tests.dll
+2026-05-16T05:27:45.6995356+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory D:\Колледж\Учебная практика\ПМ02\Сессия 4\LaboratoryModule.Tests\bin\Debug\net8.0-windows\Log --results-directory D:\Колледж\Учебная практика\ПМ02\Сессия 4\LaboratoryModule\TestResults --client-port 49164'
+2026-05-16T05:27:45.7004052+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-05-16T05:27:45.7167743+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-05-16T05:27:45.7194875+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'D:\Колледж\Учебная практика\ПМ02\Сессия 4\LaboratoryModule.Tests\bin\Debug\net8.0-windows\LaboratoryModule.Tests.testconfig.json' not found.
+2026-05-16T05:27:45.7204194+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2026-05-16T05:27:46.8453559+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2026-05-16T05:27:47.0865177+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Включена параллелизация тестов для D:\Колледж\Учебная практика\ПМ02\Сессия 4\LaboratoryModule.Tests\bin\Debug\net8.0-windows\LaboratoryModule.Tests.dll (рабочие роли: 16, область: MethodLevel)

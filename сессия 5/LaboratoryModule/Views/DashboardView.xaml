@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="LaboratoryModule.Views.DashboardView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <StackPanel>
+        <TextBlock Text="🏠 Главная панель" FontSize="24" FontWeight="Bold" Margin="0,0,0,20"/>
+
+        <WrapPanel>
+            <Border Background="#E74C3C" Width="180" Height="100" Margin="10" CornerRadius="8">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtPendingRaw" Text="0" FontSize="28" Foreground="White" FontWeight="Bold"/>
+                    <TextBlock Text="Сырье на контроле" Foreground="White" FontSize="12" TextWrapping="Wrap" TextAlignment="Center"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="#F39C12" Width="180" Height="100" Margin="10" CornerRadius="8">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtPendingFinished" Text="0" FontSize="28" Foreground="White" FontWeight="Bold"/>
+                    <TextBlock Text="Готовая продукция" Foreground="White" FontSize="12" TextWrapping="Wrap" TextAlignment="Center"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="#3498DB" Width="180" Height="100" Margin="10" CornerRadius="8">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtInProgress" Text="0" FontSize="28" Foreground="White" FontWeight="Bold"/>
+                    <TextBlock Text="Испытаний в работе" Foreground="White" FontSize="12" TextWrapping="Wrap" TextAlignment="Center"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="#27AE60" Width="180" Height="100" Margin="10" CornerRadius="8">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtCompletedToday" Text="0" FontSize="28" Foreground="White" FontWeight="Bold"/>
+                    <TextBlock Text="Завершено сегодня" Foreground="White" FontSize="12" TextWrapping="Wrap" TextAlignment="Center"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="#E74C3C" Width="180" Height="100" Margin="10" CornerRadius="8">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtBlocked" Text="0" FontSize="28" Foreground="White" FontWeight="Bold"/>
+                    <TextBlock Text="Заблокировано" Foreground="White" FontSize="12" TextWrapping="Wrap" TextAlignment="Center"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="#2ECC71" Width="180" Height="100" Margin="10" CornerRadius="8">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtApproved" Text="0" FontSize="28" Foreground="White" FontWeight="Bold"/>
+                    <TextBlock Text="Допущено" Foreground="White" FontSize="12" TextWrapping="Wrap" TextAlignment="Center"/>
+                </StackPanel>
+            </Border>
+        </WrapPanel>
+
+        <TextBlock x:Name="lblUpdate" FontSize="11" Foreground="Gray" Margin="10,10,0,0"/>
+        <ProgressBar x:Name="progress" Height="4" Margin="10" IsIndeterminate="True" Visibility="Collapsed"/>
+    </StackPanel>
+</UserControl>

@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="TechnologistModule.Views.DashboardView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <StackPanel>
+        <TextBlock Text="Главная панель" FontSize="20" FontWeight="Bold" Margin="0,0,0,15"/>
+
+        <WrapPanel>
+            <Border Background="#3498DB" Width="140" Height="80" Margin="5" CornerRadius="5">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtActiveProducts" FontSize="22" Foreground="White" Text="0" TextAlignment="Center"/>
+                    <TextBlock Text="Продуктов" Foreground="White"/>
+                </StackPanel>
+            </Border>
+            <Border Background="#27AE60" Width="140" Height="80" Margin="5" CornerRadius="5">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtActiveRecipes" FontSize="22" Foreground="White" Text="0" TextAlignment="Center"/>
+                    <TextBlock Text="Рецептур" Foreground="White"/>
+                </StackPanel>
+            </Border>
+            <Border Background="#E67E22" Width="140" Height="80" Margin="5" CornerRadius="5">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtBatchesRunning" FontSize="22" Foreground="White" Text="0" TextAlignment="Center"/>
+                    <TextBlock Text="Партий в работе" Foreground="White"/>
+                </StackPanel>
+            </Border>
+            <Border Background="#9B59B6" Width="140" Height="80" Margin="5" CornerRadius="5">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtPendingQC" FontSize="22" Foreground="White" Text="0" TextAlignment="Center"/>
+                    <TextBlock Text="Ждут контроля" Foreground="White"/>
+                </StackPanel>
+            </Border>
+            <Border Background="#E74C3C" Width="140" Height="80" Margin="5" CornerRadius="5">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtDeviationsToday" FontSize="22" Foreground="White" Text="0" TextAlignment="Center"/>
+                    <TextBlock Text="Отклонений" Foreground="White"/>
+                </StackPanel>
+            </Border>
+            <Border Background="#F39C12" Width="140" Height="80" Margin="5" CornerRadius="5">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtUnresolved" FontSize="22" Foreground="White" Text="0" TextAlignment="Center"/>
+                    <TextBlock Text="Не закрыто" Foreground="White"/>
+                </StackPanel>
+            </Border>
+        </WrapPanel>
+
+        <TextBlock x:Name="lblLastUpdate" FontSize="11" Foreground="Gray" Margin="5,10,0,0"/>
+        <ProgressBar x:Name="progress" Height="3" Margin="5" IsIndeterminate="True" Visibility="Collapsed"/>
+    </StackPanel>
+</UserControl>

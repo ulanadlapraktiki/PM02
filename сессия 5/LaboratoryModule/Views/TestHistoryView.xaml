@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="LaboratoryModule.Views.TestHistoryView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="📜 История испытаний" FontSize="24" FontWeight="Bold" Margin="0,0,0,15"/>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,10">
+            <Button x:Name="btnRefresh" Content="🔄 Обновить" Background="#7F8C8D" Foreground="White" Padding="15,8"/>
+            <Button x:Name="btnExportExcel" Content="📎 Экспорт в Excel" Background="#27AE60" Foreground="White" Padding="15,8" Margin="10,0,0,0"/>
+            <ProgressBar x:Name="progress" Width="100" Height="4" Margin="10,0,0,0" IsIndeterminate="True" Visibility="Collapsed"/>
+        </StackPanel>
+
+        <DataGrid x:Name="grid" Grid.Row="2" AutoGenerateColumns="False" IsReadOnly="True" 
+                  Margin="0,10,0,0" FontSize="13" AlternatingRowBackground="#F8F9FA"
+                  MouseDoubleClick="Grid_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="60"/>
+                <DataGridTextColumn Header="Номер партии" Binding="{Binding BatchNumber}" Width="120"/>
+                <DataGridTextColumn Header="Тип" Binding="{Binding SampleType}" Width="120"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="100"/>
+                <DataGridTextColumn Header="Решение" Binding="{Binding Decision}" Width="100">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Decision}" Value="approved">
+                                    <Setter Property="Text" Value="✅ РАЗРЕШЕНО"/>
+                                    <Setter Property="Foreground" Value="Green"/>
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Decision}" Value="blocked">
+                                    <Setter Property="Text" Value="❌ ЗАБЛОКИРОВАНО"/>
+                                    <Setter Property="Foreground" Value="Red"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Лаборант" Binding="{Binding AnalystName}" Width="150"/>
+                <DataGridTextColumn Header="Дата" Binding="{Binding CreatedAt, StringFormat=dd.MM.yyyy HH:mm}" Width="150"/>
+                <DataGridTextColumn Header="Комментарий" Binding="{Binding Comment}" Width="200"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

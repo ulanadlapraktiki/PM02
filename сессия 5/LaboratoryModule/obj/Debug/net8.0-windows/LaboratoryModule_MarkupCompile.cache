@@ -1,0 +1,20 @@
+﻿LaboratoryModule
+
+
+winexe
+C#
+.cs
+D:\Колледж\Учебная практика\ПМ02\Сессия 4\LaboratoryModule\obj\Debug\net8.0-windows\
+LaboratoryModule
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\Колледж\Учебная практика\ПМ02\Сессия 4\LaboratoryModule\App.xaml
+121444430184
+1869543231
+19-922873622
+213404984106
+Dialogs\AddParameterDialog.xaml;Dialogs\AvatarDialog.xaml;Dialogs\DecisionDialog.xaml;Dialogs\ProtocolDialog.xaml;Dialogs\RegisterWindow.xaml;Dialogs\TestSessionWindow.xaml;MainWindow.xaml;Views\DashboardView.xaml;Views\FinishedProductBatchesView.xaml;Views\LoginWindow.xaml;Views\RawMaterialBatchesView.xaml;Views\TestHistoryView.xaml;
+
+False
+

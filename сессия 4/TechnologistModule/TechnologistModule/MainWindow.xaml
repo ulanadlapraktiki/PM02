@@ -1,0 +1,34 @@
+﻿<Window x:Class="TechnologistModule.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="АгроКонтроль - Технолог" Height="650" Width="1000" 
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="180"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="0" Background="#2C3E50">
+            <StackPanel>
+                <TextBlock Text="АгроКонтроль" FontSize="16" FontWeight="Bold" Foreground="White" 
+                           HorizontalAlignment="Center" Margin="0,15,0,15"/>
+
+                <Button x:Name="btnDashboard" Content="Главная" Margin="10,5" Background="#34495E" Foreground="White"/>
+                <Button x:Name="btnProducts" Content="Продукция" Margin="10,5" Background="Transparent" Foreground="White"/>
+                <Button x:Name="btnRecipes" Content="Рецептуры" Margin="10,5" Background="Transparent" Foreground="White"/>
+                <Button x:Name="btnOrders" Content="Заказы" Margin="10,5" Background="Transparent" Foreground="White"/>
+                <Button x:Name="btnBatches" Content="Партии" Margin="10,5" Background="Transparent" Foreground="White"/>
+                <Button x:Name="btnDeviations" Content="Отклонения" Margin="10,5" Background="Transparent" Foreground="White"/>
+                <Button x:Name="btnReports" Content="Отчеты" Margin="10,5" Background="Transparent" Foreground="White"/>
+
+                <Separator Margin="10,15" Background="#555"/>
+
+                <TextBlock x:Name="lblUser" Foreground="#AAA" FontSize="11" Margin="10,0,10,5" TextWrapping="Wrap"/>
+                <Button x:Name="btnLogout" Content="Выход" Margin="10,10" Background="#C0392B" Foreground="White"/>
+            </StackPanel>
+        </Border>
+
+        <ContentControl x:Name="contentControl" Grid.Column="1" Margin="15"/>
+    </Grid>
+</Window>
